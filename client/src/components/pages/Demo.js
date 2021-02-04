@@ -16,7 +16,7 @@ import Deck from "../swiper/Deck";
 
 const Demo = () => {
     return (
-        <div>
+        <div className="#deckroot">
             <Deck />
         </div>
     )
