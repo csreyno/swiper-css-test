@@ -7,7 +7,7 @@ import KeyFeature from "./pages/KeyFeature";
 import Pricing from "./pages/Pricing";
 import Testimonials from "./pages/Testimonials";
 import "./App.css";
-import Deck from "./swiper/Deck";
+// import Deck from "./swiper/Deck";
 
 function App() {
   return (
@@ -24,7 +24,7 @@ function App() {
         </Switch>
       </Router>
       </div>
-      <div><Deck /></div>
+      {/* <div><Deck /></div> */}
     </div>
   );
 }
